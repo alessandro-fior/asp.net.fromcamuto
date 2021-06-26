@@ -1,0 +1,61 @@
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.dll.config
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.pdb
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\EntityFramework.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\EntityFramework.SqlServer.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Helpers.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Mvc.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Razor.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\EntityFramework.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\EntityFramework.SqlServer.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Razor.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Helpers.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\System.Web.Mvc.xml
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\EntityFramework.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Razor.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.Razor.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Helpers.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Mvc.resources.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.dll
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.pdb
+C:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.csprojResolveAssemblyReference.cache
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.dll.config
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\CorsoDataModel.pdb
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\EntityFramework.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\EntityFramework.SqlServer.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Helpers.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Mvc.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Razor.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Deployment.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Razor.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\EntityFramework.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\EntityFramework.SqlServer.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Razor.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Deployment.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Webpages.Razor.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Helpers.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\System.Web.Mvc.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\EntityFramework.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Razor.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.Deployment.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Webpages.Razor.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Helpers.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\bin\it\System.Web.Mvc.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.csproj.CoreCompileInputs.cache
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.csproj.CopyComplete
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.pdb
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet17\CorsoDataModel\CorsoDataModel\obj\Debug\CorsoDataModel.csproj.AssemblyReference.cache

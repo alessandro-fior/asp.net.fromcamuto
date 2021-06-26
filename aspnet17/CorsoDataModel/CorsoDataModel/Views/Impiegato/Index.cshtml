@@ -1,0 +1,24 @@
+﻿@model List<CorsoDataModel.Models.Impiegato>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Elenco Impiegati</h2>
+<table>
+   <tr>
+       <th>Nome</th>
+       <th>Cognome</th>
+       <th>Email</th>
+       <th>Livello</th>
+   </tr>
+@foreach (var item in Model)
+{ 
+   <tr>
+       <td> @item.Nome</td> 
+       <td> @item.Cognome</td> 
+       <td> @item.Email</td> 
+       <td> @item.Livello</td> 
+   </tr>
+}
+</table>
