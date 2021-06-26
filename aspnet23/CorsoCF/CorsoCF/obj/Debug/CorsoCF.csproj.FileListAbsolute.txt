@@ -1,0 +1,150 @@
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\CorsoCF.dll.config
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\CorsoCF.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\CorsoCF.pdb
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Antlr3.Runtime.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\EntityFramework.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\EntityFramework.SqlServer.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Newtonsoft.Json.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Owin.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Helpers.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Mvc.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Optimization.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Razor.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.Razor.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\WebGrease.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\EntityFramework.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\EntityFramework.SqlServer.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Helpers.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Mvc.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Optimization.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.Razor.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\System.Web.WebPages.Razor.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Newtonsoft.Json.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Antlr3.Runtime.pdb
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\EntityFramework.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\EntityFramework.SqlServer.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.Helpers.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.Mvc.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.Optimization.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.Razor.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.Deployment.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.Razor.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Google.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\obj\Debug\CorsoCF.csprojResolveAssemblyReference.cache
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\obj\Debug\CorsoCF.dll
+c:\Users\Fabrizio\Documents\Visual Studio 2013\Projects\CorsoCF\CorsoCF\obj\Debug\CorsoCF.pdb
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\CorsoCF.dll.config
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\CorsoCF.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\CorsoCF.pdb
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Antlr3.Runtime.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\EntityFramework.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\EntityFramework.SqlServer.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Newtonsoft.Json.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Owin.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Helpers.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Mvc.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Optimization.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Razor.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.Deployment.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.Razor.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\WebGrease.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\EntityFramework.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\EntityFramework.SqlServer.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Helpers.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Mvc.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Optimization.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.Razor.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.Deployment.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\System.Web.WebPages.Razor.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Newtonsoft.Json.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Antlr3.Runtime.pdb
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\EntityFramework.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\EntityFramework.SqlServer.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.Helpers.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.Mvc.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.Optimization.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.Razor.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.Deployment.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\System.Web.WebPages.Razor.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Google.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\bin\it\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\obj\Debug\CorsoCF.csproj.AssemblyReference.cache
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\obj\Debug\CorsoCF.csproj.CoreCompileInputs.cache
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\obj\Debug\CorsoCF.csproj.CopyComplete
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\obj\Debug\CorsoCF.dll
+D:\Users\cv4al\OneDrive\Documenti\GitHub\asp.net.fromcamuto\aspnet23\CorsoCF\CorsoCF\obj\Debug\CorsoCF.pdb
