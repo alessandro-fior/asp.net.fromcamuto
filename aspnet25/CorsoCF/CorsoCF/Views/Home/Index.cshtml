@@ -1,0 +1,14 @@
+﻿@model CorsoCF.Models.ViewModels.Benvenuto
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Benvenuto utente, oggi è @Model.Data</p>
+<p>Nel database sono memorizzate:</p>
+<p>Aziende: @Model.NumeroAziende</p>
+<p>Impiegati: @Model.NumeroImpiegati</p>
+<br />
+@Html.ActionLink("Impiegato", "Index", "Impiegato")
